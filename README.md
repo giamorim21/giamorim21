@@ -1,7 +1,7 @@
 ### Hi there 👋
-### Sou a Giovana
+### Sou a Giovana 😄!!
 _______________________________________________________________________________________________________________________________________________________________
-
+### - Estou no 1º semestre de Ciência da Computação
 
 <!--
 **giamorim21/giamorim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
