@@ -1,6 +1,7 @@
 ### Hi there 👋
-<u>Sou a Giovana!</u>
-<br>
+### Sou a Giovana
+_______________________________________________________________________________________________________________________________________________________________
+
 
 <!--
 **giamorim21/giamorim21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
