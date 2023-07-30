@@ -1,6 +1,6 @@
 ### Sou a Giovana 😄!!
 _______________________________________________________________________________________________________________________________________________________________
-- Estou no 1º semestre de Ciência da Computação
+- Estou no 2º semestre de Ciência da Computação
 
 
 <div align="center">
