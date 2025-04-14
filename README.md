@@ -39,10 +39,10 @@
 
 📬 **Onde me encontrar**
 <p align="left">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui/" target="_blank">
+  <a href="https://www.linkedin.com/in/giovana-amorimc/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:giamorim2101@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/giamorim21" target="_blank">
