@@ -59,7 +59,7 @@
 
 ---
 
-> _"A tecnologia move o mundo. Mas somos nós que movemos a tecnologia."_ – Giovana 🌍
+✨ _"A tecnologia move o mundo. Mas somos nós que movemos a tecnologia."_ 
 
 ---
 
