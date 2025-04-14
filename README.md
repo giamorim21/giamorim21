@@ -1,7 +1,7 @@
 <h1 align="center">✨ Oi, eu sou a Giovana! 😄</h1>
 
 <p align="center">
-  <i>Estudante de Ciência da Computação, apaixonada por tecnologia, café e transformar ideias em código!</i>
+  <i>Estudante de Ciência da Computação, apaixonada por tecnologia, sushi e transformar ideias em código!</i>
 </p>
 
 ---
