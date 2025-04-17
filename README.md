@@ -56,7 +56,9 @@
 
 ---
 
-✨ _"A tecnologia move o mundo. Mas somos nós que movemos a tecnologia."_ 
+<p align="center">
+  ✨ <em>"A tecnologia move o mundo. Mas somos nós que movemos a tecnologia."</em> ✨
+</p>
 
 ---
 
