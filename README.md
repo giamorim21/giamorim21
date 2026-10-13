@@ -7,7 +7,7 @@
 ---
 
 ### 🎓 Sobre mim
-- 👩‍💻 Atualmente no **6º semestre de Ciência da Computação**
+- 👩‍💻 Atualmente no **8º semestre de Ciência da Computação**
 - 🚀 Trabalhando em projetos com **Python, React, FastAPI e Machine Learning**
 - 📚 Desenvolvendo meu primeiro projeto integrador: **ReadFlow**, um sistema de recomendação de livros com IA
 - 💡 Sempre buscando aprender algo novo, especialmente sobre backend e segurança
